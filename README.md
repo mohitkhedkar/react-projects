@@ -14,6 +14,7 @@
 
 ### List of Projects
 
-| Status             | Project Names |
-| ------------------ | ------------- |
-| :white_check_mark: |               |
+| Status             | Project Names             |
+| ------------------ | ------------------------- |
+| :white_check_mark: | Basic Counter App         |
+| :white_check_mark: | Background Color Switcher |
