@@ -16,5 +16,6 @@
 
 | Status             | Project Names             |
 | ------------------ | ------------------------- |
-| :white_check_mark: | Basic Counter App         |
+| :white_check_mark: | Password Generator        |
 | :white_check_mark: | Background Color Switcher |
+| :white_check_mark: | Basic Counter App         |
