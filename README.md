@@ -14,8 +14,9 @@
 
 ### List of Projects
 
-| Status             | Project Names             |
-| ------------------ | ------------------------- |
-| :white_check_mark: | Password Generator        |
-| :white_check_mark: | Background Color Switcher |
-| :white_check_mark: | Basic Counter App         |
+| Status             | Project Names             | Code link                               | Live Project                                                |
+| ------------------ | ------------------------- | --------------------------------------- | ----------------------------------------------------------- |
+| :white_check_mark: | Currency Converter        | [Code](./projects/04currencyRate/)      | Live Demo](https://transcendent-gecko-081d9a.netlify.app/)  |
+| :white_check_mark: | Password Generator        | [Code](./projects/03passwordGenerator/) | Live Demo](https://phenomenal-rugelach-d31974.netlify.app/) |
+| :white_check_mark: | Background Color Switcher | [Code](./projects/02backgroundChanger/) | Live Demo](https://creative-choux-dd768a.netlify.app/)      |
+| :white_check_mark: | Basic Counter App         | [Code](./projects/01counterApp/)        | [Live Demo]()                                               |
