@@ -11,7 +11,7 @@ function Projects() {
               <a href="#" class="relative block">
                 <img
                   alt="profil"
-                  src="/src/assets/randomColorGenerator.JPG"
+                  src="static/images/randomColorGenerator.JPG"
                   class="mx-auto object-cover rounded h-40 w-50 "
                 />
               </a>
@@ -48,7 +48,7 @@ function Projects() {
               <a href="#" class="relative block">
                 <img
                   alt="profil"
-                  src="/src/assets/"
+                  src="static/images/"
                   class="mx-auto object-cover rounded h-40 w-50 "
                 />
               </a>
@@ -80,7 +80,7 @@ function Projects() {
               <a href="#" class="relative block">
                 <img
                   alt="profil"
-                  src="/src/assets/currencyConverter.JPG"
+                  src="static/images/currencyConverter.JPG"
                   class="mx-auto object-cover rounded h-40 w-50 "
                 />
               </a>
@@ -118,7 +118,7 @@ function Projects() {
               <a href="#" class="relative block">
                 <img
                   alt="profil"
-                  src="/src/assets/passwordGenerator.JPG"
+                  src="static/images/passwordGenerator.JPG"
                   class="mx-auto object-cover rounded h-40 w-50 "
                 />
               </a>
@@ -156,7 +156,7 @@ function Projects() {
               <a href="#" class="relative block">
                 <img
                   alt="profil"
-                  src="/src/assets/backgroundColorSwitcher.JPG"
+                  src="static/images/backgroundColorSwitcher.JPG"
                   class="mx-auto object-cover rounded h-40 w-50 "
                 />
               </a>
