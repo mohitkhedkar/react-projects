@@ -1,14 +1,15 @@
 import { useState } from "react";
 import "./App.css";
+import Navbar from "./Components/Navbar";
+import Projects from "./Components/Projects";
 
 function App() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <div>
-        <h1>React Projects</h1>
-      </div>
+      <Navbar />
+      <Projects />
     </>
   );
 }
