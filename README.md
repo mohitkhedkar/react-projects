@@ -12,6 +12,7 @@
 
 ### List of Projects
 
-| Status             | Project Names           | Code link                          | Live Project                                 |
-| ------------------ | ----------------------- | ---------------------------------- | -------------------------------------------- |
-| :white_check_mark: | Edusity College Website | [Code](./projects/collegeWebsite/) | [Live Demo](https://edusity-mk.netlify.app/) |
+| Status             | Project Names           | Code link                          | Live Project                                         |
+| ------------------ | ----------------------- | ---------------------------------- | ---------------------------------------------------- |
+| :white_check_mark: | Edusity College Website | [Code](./projects/collegeWebsite/) | [Live Demo](https://edusity-mk.netlify.app/)         |
+| :white_check_mark: | Tic Tac Toe Game        | [Code](./projects/TicTacToe-Game/) | [Live Demo](https://tictactoe-react-mk.netlify.app/) |
