@@ -11,3 +11,7 @@
 ---
 
 ### List of Projects
+
+| Status             | Project Names           | Code link                          | Live Project                                 |
+| ------------------ | ----------------------- | ---------------------------------- | -------------------------------------------- |
+| :white_check_mark: | Edusity College Website | [Code](./projects/collegeWebsite/) | [Live Demo](https://edusity-mk.netlify.app/) |
