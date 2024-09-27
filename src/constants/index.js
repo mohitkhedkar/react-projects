@@ -19,8 +19,8 @@ export const PROJECTS = [
     description: "",
     technologies: ["React", "Tailwind CSS"],
     codeLink:
-      "https://github.com/mohitkhedkar/react-projects/tree/master/mini-projects/06randomColorGenerator",
-    liveLink: "https://colorgenerator-react-mk.netlify.app/",
+      "https://github.com/mohitkhedkar/react-projects/tree/master/projects/TicTacToe-Game",
+    liveLink: "https://tictactoe-react-mk.netlify.app/",
   },
   {
     title: "Random Color Generator",
@@ -28,8 +28,8 @@ export const PROJECTS = [
     description: "",
     technologies: ["React", "Tailwind CSS"],
     codeLink:
-      "https://github.com/mohitkhedkar/react-projects/tree/master/projects/TicTacToe-Game",
-    liveLink: "https://tictactoe-react-mk.netlify.app/",
+      "https://github.com/mohitkhedkar/react-projects/tree/master/mini-projects/06randomColorGenerator",
+    liveLink: "https://colorgenerator-react-mk.netlify.app/",
   },
   {
     title: "Random Password Generator",
