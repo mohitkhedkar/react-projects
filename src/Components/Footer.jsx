@@ -1,14 +1,30 @@
 import React from "react";
+import { CONTACT } from "../constants";
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { FaX } from "react-icons/fa6";
+import { motion } from "framer-motion";
 
-function Navbar() {
+function Contact() {
   return (
-    <nav className="flex items-center justify-between py-3">
-      <div className="flex flex-shrink-0 items-center">
-        <a href="#" className="mx-5 text-4xl font-serief" aria-label="Home">
-          React Projects
-        </a>
+    <div className="border-t border-stone-900 pb-20">
+      <motion.h2
+        whileInView={{ opacity: 1, y: 0 }}
+        initial={{ opacity: 0, y: -100 }}
+        transition={{ duration: 0.5 }}
+        className="my-10 text-center text-4xl"
+      >
+        Contact Details
+      </motion.h2>
+      <div className="text-center tracking-wider ">
+        <motion.p
+          whileInView={{ opacity: 1, x: 0 }}
+          initial={{ opacity: 0, x: -100 }}
+          transition={{ duration: 1 }}
+          className="my-4"
+        >
+          {CONTACT.phoneNo}
+        </motion.p>
+        <a href="">{CONTACT.email}</a>
       </div>
 
       <div className="m-8 flex items-center justify-center gap-4 text-2xl opacity-80">
@@ -45,8 +61,8 @@ function Navbar() {
           <FaX />
         </a>
       </div>
-    </nav>
+    </div>
   );
 }
 
-export default Navbar;
+export default Contact;
