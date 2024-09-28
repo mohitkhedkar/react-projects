@@ -2,6 +2,7 @@ import project1 from "../assets/projects/collegeWebsite.png";
 import project2 from "../assets/projects/ticTacToe.png";
 import project9 from "../assets/projects/passGenerator.png";
 import project10 from "../assets/projects/colorGenerator.png";
+import project11 from "../assets/projects/weatherApp.png";
 
 export const PROJECTS = [
   {
@@ -41,17 +42,15 @@ export const PROJECTS = [
     liveLink: "https://passwordgenerator-react-mk.netlify.app/",
   },
 
-  //   {
-  //     title: "Student Attendance Management system ",
-  //     image: project3,
-  //     description:
-  //       "This project aims to ease out the manual attendance taking process in Schools/Colleges.An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-  //     technologies: ["PHP", "CSS", "Javascript", "MySQL"],
-  //     codeLink:
-  //       "https://github.com/mohitkhedkar/Student-Attendance-Management-System",
-  //     liveLink:
-  //       "https://github.com/mohitkhedkar/Student-Attendance-Management-System",
-  //   },
+  {
+    title: "Weather App",
+    image: project11,
+    description: "",
+    technologies: ["React", "Tailwind CSS"],
+    codeLink:
+      "https://github.com/mohitkhedkar/react-projects/tree/master/projects/weatherApp",
+    liveLink: "https://weatherapp-react-mk.netlify.app/",
+  },
 ];
 
 export const CONTACT = {
