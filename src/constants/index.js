@@ -1,5 +1,6 @@
 import project1 from "../assets/projects/collegeWebsite.png";
 import project2 from "../assets/projects/ticTacToe.png";
+import project3 from "../assets/projects/expenseTracker.png";
 import project9 from "../assets/projects/passGenerator.png";
 import project10 from "../assets/projects/colorGenerator.png";
 import project11 from "../assets/projects/weatherApp.png";
@@ -22,6 +23,15 @@ export const PROJECTS = [
     codeLink:
       "https://github.com/mohitkhedkar/react-projects/tree/master/projects/TicTacToe-Game",
     liveLink: "https://tictactoe-react-mk.netlify.app/",
+  },
+  {
+    title: "Expense Tracker",
+    image: project3,
+    description: "",
+    technologies: ["React", "Custom CSS"],
+    codeLink:
+      "https://github.com/mohitkhedkar/react-projects/tree/master/projects/expenseTracker",
+    liveLink: "https://expensetracker-mk.netlify.app",
   },
   {
     title: "Random Color Generator",
