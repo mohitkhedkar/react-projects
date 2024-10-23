@@ -16,6 +16,7 @@
 | ------------------ | ----------------------- | ---------------------------------- | ----------------------------------------------------- |
 | :white_check_mark: | Edusity College Website | [Code](./projects/collegeWebsite/) | [Live Demo](https://edusity-mk.netlify.app/)          |
 | :white_check_mark: | Tic Tac Toe Game        | [Code](./projects/TicTacToe-Game/) | [Live Demo](https://tictactoe-react-mk.netlify.app/)  |
+| :white_check_mark: | Expense Tracker         | [Code](./projects/expenseTracker/) | [Live Demo](https://expensetracker-mk.netlify.app/)   |
 | :white_check_mark: | Weather App             | [Code](./projects/weatherApp/)     | [Live Demo](https://weatherapp-react-mk.netlify.app/) |
 
 ### List of Mini Projects
