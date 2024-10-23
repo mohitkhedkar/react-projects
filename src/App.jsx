@@ -17,7 +17,7 @@ function App() {
       <div className="container mx-auto px-8 text-white text-2xl text-center ">
         <Navbar />
         <Projects />
-        <Technologies />
+        {/* <Technologies /> */}
         <Footer />
       </div>
     </>
