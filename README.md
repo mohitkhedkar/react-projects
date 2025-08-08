@@ -6,7 +6,7 @@
 
 ### Live Project link
 
-## https://react-mini-projects-one.vercel.app/
+## https://react-projectsmk-one.vercel.app/
 
 ---
 

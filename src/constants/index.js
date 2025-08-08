@@ -1,11 +1,21 @@
 import project1 from "../assets/projects/collegeWebsite.png";
 import project2 from "../assets/projects/ticTacToe.png";
 import project3 from "../assets/projects/expenseTracker.png";
-import project9 from "../assets/projects/passGenerator.png";
-import project10 from "../assets/projects/colorGenerator.png";
-import project11 from "../assets/projects/weatherApp.png";
+import project4 from "../assets/projects/passGenerator.png";
+import project5 from "../assets/projects/colorGenerator.png";
+import project6 from "../assets/projects/weatherApp.png";
+import project7 from "../assets/projects/movieLibrary.JPG";
 
 export const PROJECTS = [
+  {
+    title: "Movie Library",
+    image: project7,
+    description: "",
+    technologies: ["React", "TMDB API"],
+    codeLink:
+      "https://github.com/mohitkhedkar/react-projects/tree/master/projects/movie-library",
+    liveLink: "https://movie-library-mk.netlify.app/",
+  },
   {
     title: "A College Website",
     image: project1,
@@ -35,7 +45,7 @@ export const PROJECTS = [
   },
   {
     title: "Random Color Generator",
-    image: project10,
+    image: project5,
     description: "",
     technologies: ["React", "Tailwind CSS"],
     codeLink:
@@ -44,7 +54,7 @@ export const PROJECTS = [
   },
   {
     title: "Random Password Generator",
-    image: project9,
+    image: project4,
     description: "",
     technologies: ["React", "Tailwind CSS"],
     codeLink:
@@ -54,7 +64,7 @@ export const PROJECTS = [
 
   {
     title: "Weather App",
-    image: project11,
+    image: project6,
     description: "",
     technologies: ["React", "Tailwind CSS"],
     codeLink:
@@ -62,8 +72,3 @@ export const PROJECTS = [
     liveLink: "https://weatherapp-react-mk.netlify.app/",
   },
 ];
-
-export const CONTACT = {
-  phoneNo: "+91 9156804328",
-  email: "mohitkhedkar521@gmail.com",
-};

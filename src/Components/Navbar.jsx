@@ -1,48 +1,18 @@
 import React from "react";
-import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
-import { FaX } from "react-icons/fa6";
 
 function Navbar() {
   return (
     <nav className="flex items-center justify-between py-3">
-      <div className="flex flex-shrink-0 items-center">
-        <a href="#" className="mx-5 text-4xl font-serief" aria-label="Home">
-          React Projects
-        </a>
-      </div>
+      <a href="#" className="mx-5 text-4xl font-serif" aria-label="Home">
+        React Projects
+      </a>
 
-      <div className="m-8 flex items-center justify-center gap-4 text-2xl opacity-80">
+      <div>
         <a
-          href="https://www.linkedin.com/in/mohitkhedkar"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Linkedin"
+          href="https://github.com/mohitkhedkar/react-projects"
+          className="text-base px-4 py-2 rounded transition-colors duration-200 hover:bg-white/10"
         >
-          <FaLinkedin />
-        </a>
-        <a
-          href="https://www.github.com/mohitkhedkar"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Github"
-        >
-          <FaGithub />
-        </a>
-        <a
-          href="https://www.instagram.com/mohitk_dev"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Instagram"
-        >
-          <FaInstagram />
-        </a>
-        <a
-          href="https://www.x.com/mohitk_dev"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="X"
-        >
-          <FaX />
+          Source Code
         </a>
       </div>
     </nav>
